@@ -1,4 +1,4 @@
-## Neste curso de SQL e Banco de dados estou aprendendo a:
+## Neste curso de SQL e Banco de dados estou aprendendo como:
 - Criar a estrutura de uma tabela com CREATE TABLE
 - Realizar consultas com SELECT
 - Adicionar dados no banco com o INSERT
