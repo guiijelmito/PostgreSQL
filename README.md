@@ -4,4 +4,5 @@
 - Adicionar dados no banco com o INSERT
 - Atualizar e apague dados com UPDATE e DELETE
 - Filtrar os seus registros com WHERE
-- Ordenar os seus dados com o ORDER BYJunte registros de tabelas com JOIN
+- Ordenar os seus dados com o ORDER BY
+- Junte registros de tabelas com JOIN
